@@ -1,0 +1,153 @@
+.lish_detail .detail_rooms_lish {
+    font-weight: 700;
+    color: #656060;
+    padding-left: 10px;
+    padding-top: 5px;
+}
+
+.hotel_image img {
+    width: 1110px;
+    height: 723px;
+}
+
+.cboxElement img {
+    width: 110px;
+    height: 110px;
+}
+
+.review_rooms {
+    font-style: italic;
+    font-family: monospace;
+    font-weight: 500;
+    font-size: 30px;
+    color: #000000;
+}
+
+.room_extra {
+    font-style: italic;
+    padding-left: 10px;
+}
+
+.lish_review li {
+    font-style: italic;
+    padding-left: 10px;
+    padding-top: 10px;
+    font-weight: 600;
+    color: #000000;
+}
+
+.related_room {
+    font-size: 25px;
+    font-style: italic;
+    color: #000000;
+    margin-bottom: 20px;
+}
+
+.price {
+    margin-left: 160px;
+}
+
+.bed_type {
+    margin-left: 100px;
+}
+
+.capacity {
+    margin-left: 120px;
+}
+
+.vacilities {
+    margin-left: 117px;
+}
+
+.offers_image_background img {
+    width: 100%;
+    height: 100%;
+}
+
+.name_comment {
+    padding-left: 10px;
+    color: #000000;
+}
+
+.name_comment a {
+    color: #000000;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: none;
+}
+
+.name_comment a:hover {
+    background: none;
+    color: red;
+}
+
+.home_background img {
+    width: 100%;
+    height: 465px;
+}
+
+.site-section {
+    padding: 7em 0;
+}
+
+.mb-5, .my-5 {
+    margin-bottom: 3rem !important;
+}
+
+.media img {
+    width: 420px;
+    height: 350px;
+}
+
+.title_booking {
+    color: #000000;
+}
+
+.ip_form {
+    color: #424242;
+}
+
+.price_room {
+    color: #000000;
+}
+
+.title_room {
+    color: #3c3737;
+    font-style: italic;
+    padding-left: 5px;
+}
+
+.obligatory {
+    color: red;
+}
+
+.price_room_1 {
+    font-weight: bold;
+}
+
+.page-links {
+    position: relative;
+    display: block;
+    padding: .5rem .75rem;
+    margin-left: -1px;
+    line-height: 1.25;
+    color: #000000;
+    background-color: #fff;
+    border: none;
+}
+
+.page-links a:hover {
+    color: #fa9e1c;
+}
+
+.table_booking {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.cment {
+    width: 1110px;
+    height: 383px;
+}
+
+

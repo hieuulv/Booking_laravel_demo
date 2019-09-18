@@ -1,0 +1,17 @@
+{
+  "name": "Boooking Hottel",
+  "description": "PP1901",
+  "main": "bower.json",
+  "authors": [
+    "PP1901"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4",
+    "bootstrap-tagsinput": "0.6.1",
+    "jquery": "^3.4.1",
+    "OwlCarousel2": "^2.3.4",
+    "Font-Awesome": "https://github.com/FortAwesome/Font-Awesome.git#^5.10.1"
+  }
+}
